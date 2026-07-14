@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alp 👋
 
-<!--
-**alpivenator/alpivenator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Electronics Engineering student from Antalya, Türkiye.  
+Python & C · Linux, embedded systems, and security.
 
-Here are some ideas to get you started:
+**Languages & Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alpivenator&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&hide=contribs,prs)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-alperen-mercan-092845240/)
